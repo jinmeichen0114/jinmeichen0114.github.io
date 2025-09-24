@@ -23,7 +23,7 @@ I'm a graduate student passionate about journalism and communication. I am curre
 - **Nanjing University** | 2025-Present
 - Focus on digital marketing strategies, data analysis, and communication technologies
 
-**Bachelor of Arts in Japanese Language**
+**Bachelor of Japanese Language and Literature**
 - **Shanghai Ocean University** | 2020-2024
 - Developed strong language skills and cross-cultural communication abilities
 
