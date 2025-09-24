@@ -4,7 +4,7 @@ title: About Me
 permalink: /
 subtitle: Journalism and Communication Student | Ploger
 profile:
-  align: right
+  align: left
   image: avatar.jpeg
   image_circular: true
   address: >
