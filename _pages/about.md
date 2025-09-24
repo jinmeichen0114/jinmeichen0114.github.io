@@ -7,6 +7,7 @@ profile:
   align: left
   image: avatar.jpeg
   image_circular: true
+  image_style: "float: none; margin-bottom: 20px;" 
   address: >
     <p>Nanjing University</p>
     <p>Master of Journalism and Communication</p>
