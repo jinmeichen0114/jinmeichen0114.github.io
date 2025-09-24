@@ -1,28 +1,89 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
-subtitle: 
+subtitle: Journalism and Communication Student | Ploger
 profile:
   align: right
   image: avatar.jpeg
-  image_circular: true # crops the image to make it circular
-  address: 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  image_circular: true
+  address: >
+    <p>Nanjing University</p>
+    <p>Master of Journalism and Communication</p>
+social: true
 ---
 
-Cheng-Jun Wang is currently a full  professor in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://chengjun.github.io/socrateslab/). He is also a research member of [Web Mining Lab](http://weblab.com.cityu.edu.hk), City University of Hong Kong. His research interest focuses on employing big data, computational methods, and social theories to study human communication behaviors, including but not limited to information diffusion, attention flow, and computational narrative. His research on computational communication appears in both SSCI and SCI indexed journals. His new book **Jumping over the network threshold: Information diffusion on social media** (in Chinese [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)) has recently been published by the Science Press in July 2022. You can find his [CV](cv/) here.
+# 🌱 Hi there! 
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+I'm a graduate student passionate about journalism and communication. I am currently pursuing a master's degree in Digital Marketing within the field of Journalism and Communication at Nanjing University. At the same time, I am accumulating practical skills through internships and projects.
 
+## 📚 Education Background
 
-<br>
+**Master of Journalism and Communication** - Digital Marketing Direction
+- **Nanjing University** | 2025-Present
+- Focus on digital marketing strategies, data analysis, and communication technologies
 
-<a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
-</a>
+**Bachelor of Arts in Japanese Language**
+- **Shanghai Ocean University** | 2020-2024
+- Developed strong language skills and cross-cultural communication abilities
 
-<br>
+## 💼 Internship Experience
+
+**Account Executive Intern**
+- **BlueFocus Communication Group** 
+- Assisted in client management and marketing campaign execution
+- Participated in digital marketing strategy development and implementation
+
+**New Media Operations Intern**
+- **Beijing Gongyi Interactive Culture Co., Ltd.**
+- Managed social media content creation and community engagement
+- Analyzed social media metrics to optimize content performance
+
+## 🏆 Certifications & Qualifications
+
+**Language Proficiency:**
+- CET-4 & CET-6 (College English Test Band 4 & 6)
+- IELTS 7.0
+- Japanese Language Proficiency Test N2
+- Mandarin Chinese Proficiency Test Level 2-A (二级甲等)
+
+## 🎯 Projects & Achievements
+
+### 📘 Undergraduate Experience
+
+**Student Organization Leadership:**
+- President, University Broadcasting Station
+- President, University Press Corps
+- President, Dubbing Club
+
+**Project Experience:**
+- Principal Investigator, National College Student Innovation and Entrepreneurship Training Program
+- Principal Investigator, Shanghai Municipal College Student Innovation and Entrepreneurship Training Program
+
+**Awards & Honors:**
+- University First-class Scholarship (Multiple times)
+- Outstanding Core Member, University Press Corps
+- Active Participant in Social Work Award
+- Outstanding Student Cadre Award
+
+### 📗 Graduate Experience
+*Currently accumulating new achievements during my master's studies...*
+
+## 🎯 Goals for 2025
+- [ ] Be an optimistic and positive person.
+- [ ] Carefully complete my studies and achieve excellent grades
+- [ ] Learn a new programming language
+- [ ] Develop a new hobby
+- [ ] Complete an internship
+
+## 📞 Contact Information
+
+**Phone:** +86 13515321228
+
+**WeChat:** jmc13515321228
+
+**QQ:** 3297694781
+
+**Email:** 
+- 3297694781@qq.com
+- 13515321228@163.com
